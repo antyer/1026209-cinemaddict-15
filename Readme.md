@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Антон Пивторак](https://up.htmlacademy.ru/ecmascript/15/user/1026209).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Андреев](https://up.htmlacademy.ru/ecmascript/15/user/812127).
 
 ---
 
