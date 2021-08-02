@@ -9,7 +9,7 @@ import {createFilmsStatisticTemplate} from './views/films-statistic.js';
 
 const render = (container, template, place) => {
   container.insertAdjacentHTML(place, template);
-}
+};
 
 const header = document.querySelector('.header');
 render(header, createProfileRatingTemplate(), 'beforeend');
